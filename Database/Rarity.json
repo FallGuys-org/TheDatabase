@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "common",
+    "Name": {
+      "English": "Common"
+    },
+    "BackgroundColor": -16219000, // #FF088488
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "uncommon",
+    "Name": {
+      "English": "Uncommon"
+    },
+    "BackgroundColor": -13844737, // #FF2CBEFF
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "rare",
+    "Name": {
+      "English": "Rare"
+    },
+    "BackgroundColor": -13503381, // #FF31F46B
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "epic",
+    "Name": {
+      "English": "Epic"
+    },
+    "BackgroundColor": -4581674,  // #FFBA16D6
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "legendary",
+    "Name": {
+      "English": "Legendary"
+    },
+    "BackgroundColor": -552162,   // #FFF7931E
+    "ForegroundColor": -1         // #FFFFFFFF
+  }
+]

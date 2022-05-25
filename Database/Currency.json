@@ -1,0 +1,110 @@
+[
+  {
+    "Id": "crowns",
+    "Name": {
+      "English": "Crowns"
+    }
+  },
+  {
+    "Id": "shards",
+    "Name": {
+      "English": "Crown Shards"
+    }
+  },
+  {
+    "Id": "kudos",
+    "Name": {
+      "English": "Kudos"
+    }
+  },
+  {
+    "Id": "fame",
+    "Name": {
+      "English": "Fame"
+    }
+  },
+  {
+    "Id": "showbucks",
+    "Name": {
+      "English": "Show-Bucks"
+    }
+  },
+  {
+    "Id": "crown_rank_level",
+    "Name": {
+      "English": "Crown Rank Level"
+    }
+  },
+  {
+    "Id": "tokens",
+    "Name": {
+      "English": "Tokens"
+    }
+  },
+  {
+    "Id": "clank_tokens",
+    "Name": {
+      "English": "Clank Tokens"
+    }
+  },
+  {
+    "Id": "focus_tokens",
+    "Name": {
+      "English": "Focus Tokens"
+    }
+  },
+  {
+    "Id": "heart_tokens",
+    "Name": {
+      "English": "Heart Tokens"
+    }
+  },
+  {
+    "Id": "jack_tokens",
+    "Name": {
+      "English": "Jack Tokens"
+    }
+  },
+  {
+    "Id": "louie_tokens",
+    "Name": {
+      "English": "Louie Tokens"
+    }
+  },
+  {
+    "Id": "mooncake_tokens",
+    "Name": {
+      "English": "Mooncake Tokens"
+    }
+  },
+  {
+    "Id": "pumpkin_tokens",
+    "Name": {
+      "English": "Pumpkin Tokens"
+    }
+  },
+  {
+    "Id": "ratchet_tokens",
+    "Name": {
+      "English": "Ratchet Tokens"
+    }
+  },
+  {
+    "Id": "sackboy_tokens",
+    "Name": {
+      "English": "Sackboy Tokens"
+    }
+  },
+  {
+    "Id": "star_tokens",
+    "Name": {
+      "English": "Star Tokens"
+    }
+  },
+  {
+    "Id": "sweet_tokens",
+    "Name": {
+      "English": "Sweet Tokens"
+    }
+  }
+]

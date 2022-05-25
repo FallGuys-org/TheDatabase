@@ -1,0 +1,79 @@
+[
+  {
+    "Id": "s1",
+    "Name": {
+      "English": "Season 1"
+    },
+    "Theme": {
+      "English": "None"
+    },
+    "Start": "2020-08-04",
+    "End": "2020-10-08"
+  },
+  {
+    "Id": "s2",
+    "Name": {
+      "English": "Season 2"
+    },
+    "Theme": {
+      "English": "Medieval"
+    },
+    "Start": "2020-10-08",
+    "End": "2020-12-15"
+  },
+  {
+    "Id": "s3",
+    "Name": {
+      "English": "Season 3"
+    },
+    "Theme": {
+      "English": "Winter"
+    },
+    "Start": "2020-12-15",
+    "End": "2021-03-22"
+  },
+  {
+    "Id": "s4",
+    "Name": {
+      "English": "Season 4 (Fall Guys 4041)"
+    },
+    "Theme": {
+      "English": "Future"
+    },
+    "Start": "2021-03-22",
+    "End": "2021-07-20"
+  },
+  {
+    "Id": "s5",
+    "Name": {
+      "English": "Season 5"
+    },
+    "Theme": {
+      "English": "Jungle"
+    },
+    "Start": "2021-07-20",
+    "End": "2021-11-30"
+  },
+  {
+    "Id": "s6",
+    "Name": {
+      "English": "Season 6 (Party Spectacular)"
+    },
+    "Theme": {
+      "English": "Party"
+    },
+    "Start": "2021-11-30",
+    "End": "2022-06-21"
+  },
+  {
+    "Id": "ss1",
+    "Name": {
+      "English": "Season 1 (Free for All)"
+    },
+    "Theme": {
+      "English": "Sport"
+    },
+    "Start": "2022-06-21",
+    "End": null
+  }
+]

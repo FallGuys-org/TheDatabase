@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "other",
+    "Name": {
+      "English": "Uncategorised"
+    }
+  },
+  {
+    "Id": "upper",
+    "Name": {
+      "English": "Upper Costume"
+    }
+  },
+  {
+    "Id": "lower",
+    "Name": {
+      "English": "Lower Costume"
+    }
+  },
+  {
+    "Id": "faceplate",
+    "Name": {
+      "English": "Faceplate"
+    }
+  },
+  {
+    "Id": "emote",
+    "Name": {
+      "English": "Emote"
+    }
+  },
+  {
+    "Id": "celebration",
+    "Name": {
+      "English": "Celebration"
+    }
+  },
+  {
+    "Id": "banner",
+    "Name": {
+      "English": "Banner"
+    }
+  },
+  {
+    "Id": "nickname",
+    "Name": {
+      "English": "Nickname"
+    }
+  },
+  {
+    "Id": "pattern",
+    "Name": {
+      "English": "Pattern"
+    }
+  },
+  {
+    "Id": "colour",
+    "Name": {
+      "English": "Colour"
+    }
+  }
+]
