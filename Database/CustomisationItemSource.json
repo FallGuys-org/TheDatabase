@@ -1,284 +1,284 @@
 [
-	{
-		"Id": "default",
-		"Name": {
-			"English": "Unlocked by default"
-		}
-	},
-	{
-		"Id": "prime_gaming",
-		"Name": {
-			"English": "Prime Gaming"
-		}
-	},
-	{
-		"Id": "crown_rank",
-		"Name": {
-			"English": "Crown Rank"
-		}
-	},
-	{
-		"Id": "social_media",
-		"Name": {
-			"English": "Social Media Event"
-		}
-	},
-	{
-		"Id": "twitch_rivals",
-		"Name": {
-			"English": "Twitch Rivals"
-		}
-	},
-	{
-		"Id": "crown_league",
-		"Name": {
-			"English": "Crown League"
-		}
-	},
-	{
-		"Id": "mediatonic",
-		"Name": {
-			"English": "Only for Mediatonic staff"
-		}
-	},
-	{
-		"Id": "unreleased",
-		"Name": {
-			"English": "Unreleased"
-		}
-	},
-	{
-		"Id": "unobtainable",
-		"Name": {
-			"English": "Unobtainable through normal means"
-		}
-	},
-	{
-		"Id": "beta",
-		"Name": {
-			"English": "Awarded to beta testers"
-		}
-	},
-	{
-		"Id": "preorder",
-		"Name": {
-			"English": "Pre-order Bonus"
-		}
-	},
-	{
-		"Id": "dlc_collectors",
-		"Name": {
-			"English": "Collector's Pack"
-		}
-	},
-	{
-		"Id": "dlc_fastfood",
-		"Name": {
-			"English": "Fast Food Costume Pack"
-		}
-	},
-	{
-		"Id": "dlc_dragonhugger",
-		"Name": {
-			"English": "Dragon Hugger Pack"
-		}
-	},
-	{
-		"Id": "dlc_icyadventure",
-		"Name": {
-			"English": "Icy Adventure Pack"
-		}
-	},
-	{
-		"Id": "dlc_sugarplum",
-		"Name": {
-			"English": "Sugar Plum Pack"
-		}
-	},
-	{
-		"Id": "dlc_popstar",
-		"Name": {
-			"English": "Popstar Pack"
-		}
-	},
-	{
-		"Id": "dlc_futurefashion",
-		"Name": {
-			"English": "Future Fashion Pack"
-		}
-	},
-	{
-		"Id": "dlc_devolverredux",
-		"Name": {
-			"English": "Devolver Redux Costume Pack"
-		}
-	},
-	{
-		"Id": "dlc_tron",
-		"Name": {
-			"English": "Tron Costume Pack"
-		}
-	},
-	{
-		"Id": "dlc_crowncapers",
-		"Name": {
-			"English": "Crown Capers Pack"
-		}
-	},
-	{
-		"Id": "dlc_fruitpirate",
-		"Name": {
-			"English": "Fruit Pirate Pack"
-		}
-	},
-	{
-		"Id": "dlc_legacypack",
-		"Name": {
-			"English": "Legacy Pack"
-		}
-	},
-	{
-		"Id": "event_sackboy",
-		"Name": {
-			"English": "Sackboy's Challenge"
-		}
-	},
-	{
-		"Id": "event_aloy",
-		"Name": {
-			"English": "Aloy's Challenge"
-		}
-	},
-	{
-		"Id": "event_santajack",
-		"Name": {
-			"English": "Santa Jack's Challenge"
-		}
-	},
-	{
-		"Id": "event_newbeanresolution",
-		"Name": {
-			"English": "New Bean Resolution"
-		}
-	},
-	{
-		"Id": "event_glizzygang",
-		"Name": {
-			"English": "Glizzy Gang Showdown"
-		}
-	},
-	{
-		"Id": "event_romance",
-		"Name": {
-			"English": "Week of Romance"
-		}
-	},
-	{
-		"Id": "event_sweetthieves",
-		"Name": {
-			"English": "Sweet Thieves Challenge"
-		}
-	},
-	{
-		"Id": "event_aprilfools2022",
-		"Name": {
-			"English": "April Fools Event (2022)"
-		}
-	},
-	{
-		"Id": "event_satellite_adapt",
-		"Name": {
-			"English": "Satellite Stars: Adapt!"
-		}
-	},
-	{
-		"Id": "event_satellite_logic",
-		"Name": {
-			"English": "Satellite Stars: Logic!"
-		}
-	},
-	{
-		"Id": "event_satellite_bravery",
-		"Name": {
-			"English": "Satellite Stars: Bravery!"
-		}
-	},
-	{
-		"Id": "event_clankchallenge",
-		"Name": {
-			"English": "Clank's Challenge"
-		}
-	},
-	{
-		"Id": "event_falloween",
-		"Name": {
-			"English": "Fall-o-Ween Challenge"
-		}
-	},
-	{
-		"Id": "event_kinglouie",
-		"Name": {
-			"English": "King Louie's Challenge"
-		}
-	},
-	{
-		"Id": "event_fallfestival",
-		"Name": {
-			"English": "Fall Festival Challenge"
-		}
-	},
-	{
-		"Id": "event_seasonfinale",
-		"Name": {
-			"English": "Season Finale"
-		}
-	},
-	{
-		"Id": "event_ratchet",
-		"Name": {
-			"English": "Ratchet's Challenge"
-		}
-	},
-	{
-		"Id": "fame_path_s1",
-		"Name": {
-			"English": "Fame Path (Season 1)"
-		}
-	},
-	{
-		"Id": "fame_path_s2",
-		"Name": {
-			"English": "Fame Path (Season 2)"
-		}
-	},
-	{
-		"Id": "fame_path_s3",
-		"Name": {
-			"English": "Fame Path (Season 3)"
-		}
-	},
-	{
-		"Id": "fame_path_s4",
-		"Name": {
-			"English": "Fame Path (Season 4)"
-		}
-	},
-	{
-		"Id": "fame_path_s5",
-		"Name": {
-			"English": "Fame Path (Season 5)"
-		}
-	},
-	{
-		"Id": "fame_path_s6",
-		"Name": {
-			"English": "Fame Path (Season 6)"
-		}
-	},
-	{
-		"Id": "pass_s1",
-		"Name": {
-			"English": "Season Pass (Season 1)"
-		}
-	}
+  {
+    "Id": "default",
+    "Name": {
+      "English": "Unlocked by default"
+    }
+  },
+  {
+    "Id": "prime_gaming",
+    "Name": {
+      "English": "Prime Gaming"
+    }
+  },
+  {
+    "Id": "crown_rank",
+    "Name": {
+      "English": "Crown Rank"
+    }
+  },
+  {
+    "Id": "social_media",
+    "Name": {
+      "English": "Social Media Event"
+    }
+  },
+  {
+    "Id": "twitch_rivals",
+    "Name": {
+      "English": "Twitch Rivals"
+    }
+  },
+  {
+    "Id": "crown_league",
+    "Name": {
+      "English": "Crown League"
+    }
+  },
+  {
+    "Id": "mediatonic",
+    "Name": {
+      "English": "Only for Mediatonic staff"
+    }
+  },
+  {
+    "Id": "unreleased",
+    "Name": {
+      "English": "Unreleased"
+    }
+  },
+  {
+    "Id": "unobtainable",
+    "Name": {
+      "English": "Unobtainable through normal means"
+    }
+  },
+  {
+    "Id": "beta",
+    "Name": {
+      "English": "Awarded to beta testers"
+    }
+  },
+  {
+    "Id": "preorder",
+    "Name": {
+      "English": "Pre-order Bonus"
+    }
+  },
+  {
+    "Id": "dlc_collectors",
+    "Name": {
+      "English": "Collector's Pack"
+    }
+  },
+  {
+    "Id": "dlc_fastfood",
+    "Name": {
+      "English": "Fast Food Costume Pack"
+    }
+  },
+  {
+    "Id": "dlc_dragonhugger",
+    "Name": {
+      "English": "Dragon Hugger Pack"
+    }
+  },
+  {
+    "Id": "dlc_icyadventure",
+    "Name": {
+      "English": "Icy Adventure Pack"
+    }
+  },
+  {
+    "Id": "dlc_sugarplum",
+    "Name": {
+      "English": "Sugar Plum Pack"
+    }
+  },
+  {
+    "Id": "dlc_popstar",
+    "Name": {
+      "English": "Popstar Pack"
+    }
+  },
+  {
+    "Id": "dlc_futurefashion",
+    "Name": {
+      "English": "Future Fashion Pack"
+    }
+  },
+  {
+    "Id": "dlc_devolverredux",
+    "Name": {
+      "English": "Devolver Redux Costume Pack"
+    }
+  },
+  {
+    "Id": "dlc_tron",
+    "Name": {
+      "English": "Tron Costume Pack"
+    }
+  },
+  {
+    "Id": "dlc_crowncapers",
+    "Name": {
+      "English": "Crown Capers Pack"
+    }
+  },
+  {
+    "Id": "dlc_fruitpirate",
+    "Name": {
+      "English": "Fruit Pirate Pack"
+    }
+  },
+  {
+    "Id": "dlc_legacypack",
+    "Name": {
+      "English": "Legacy Pack"
+    }
+  },
+  {
+    "Id": "event_sackboy",
+    "Name": {
+      "English": "Sackboy's Challenge"
+    }
+  },
+  {
+    "Id": "event_aloy",
+    "Name": {
+      "English": "Aloy's Challenge"
+    }
+  },
+  {
+    "Id": "event_santajack",
+    "Name": {
+      "English": "Santa Jack's Challenge"
+    }
+  },
+  {
+    "Id": "event_newbeanresolution",
+    "Name": {
+      "English": "New Bean Resolution"
+    }
+  },
+  {
+    "Id": "event_glizzygang",
+    "Name": {
+      "English": "Glizzy Gang Showdown"
+    }
+  },
+  {
+    "Id": "event_romance",
+    "Name": {
+      "English": "Week of Romance"
+    }
+  },
+  {
+    "Id": "event_sweetthieves",
+    "Name": {
+      "English": "Sweet Thieves Challenge"
+    }
+  },
+  {
+    "Id": "event_aprilfools2022",
+    "Name": {
+      "English": "April Fools Event (2022)"
+    }
+  },
+  {
+    "Id": "event_satellite_adapt",
+    "Name": {
+      "English": "Satellite Stars: Adapt!"
+    }
+  },
+  {
+    "Id": "event_satellite_logic",
+    "Name": {
+      "English": "Satellite Stars: Logic!"
+    }
+  },
+  {
+    "Id": "event_satellite_bravery",
+    "Name": {
+      "English": "Satellite Stars: Bravery!"
+    }
+  },
+  {
+    "Id": "event_clankchallenge",
+    "Name": {
+      "English": "Clank's Challenge"
+    }
+  },
+  {
+    "Id": "event_falloween",
+    "Name": {
+      "English": "Fall-o-Ween Challenge"
+    }
+  },
+  {
+    "Id": "event_kinglouie",
+    "Name": {
+      "English": "King Louie's Challenge"
+    }
+  },
+  {
+    "Id": "event_fallfestival",
+    "Name": {
+      "English": "Fall Festival Challenge"
+    }
+  },
+  {
+    "Id": "event_seasonfinale",
+    "Name": {
+      "English": "Season Finale"
+    }
+  },
+  {
+    "Id": "event_ratchet",
+    "Name": {
+      "English": "Ratchet's Challenge"
+    }
+  },
+  {
+    "Id": "fame_path_s1",
+    "Name": {
+      "English": "Fame Path (Season 1)"
+    }
+  },
+  {
+    "Id": "fame_path_s2",
+    "Name": {
+      "English": "Fame Path (Season 2)"
+    }
+  },
+  {
+    "Id": "fame_path_s3",
+    "Name": {
+      "English": "Fame Path (Season 3)"
+    }
+  },
+  {
+    "Id": "fame_path_s4",
+    "Name": {
+      "English": "Fame Path (Season 4)"
+    }
+  },
+  {
+    "Id": "fame_path_s5",
+    "Name": {
+      "English": "Fame Path (Season 5)"
+    }
+  },
+  {
+    "Id": "fame_path_s6",
+    "Name": {
+      "English": "Fame Path (Season 6)"
+    }
+  },
+  {
+    "Id": "pass_s1",
+    "Name": {
+      "English": "Season Pass (Season 1)"
+    }
+  }
 ]

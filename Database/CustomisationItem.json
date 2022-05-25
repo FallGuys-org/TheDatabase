@@ -1,0 +1,13 @@
+[
+  {
+    "Id": "pattern_mediatonic",
+    "Name": {
+      "English": "Mediatonic"
+    },
+    "Rarity": "common",
+    "ItemType": "pattern",
+    "Prices": [],
+    "Sources": [ "mediatonic" ],
+    "Tags": [ "pattern", "mediatonic" ]
+  }
+]
