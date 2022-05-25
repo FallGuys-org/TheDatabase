@@ -15,4 +15,4 @@ You can use this database in your own apps, but *please*, do these two things if
 More entities will be added whenever it makes sense to do so.
 
 ## How do I use it?
-It's up to you! We use JSON for data sets so that it's easy to adapt for any purpose. That being said, we will release our SQLite db generator very soon.
+It's up to you! We use JSON for data sets so that it's easy to adapt for any purpose. That being said, you can use [Fall Guys SQL Database Generator](https://github.com/FallGuys-org/SqlDatabaseGenerator) to generate a SQLite db.
