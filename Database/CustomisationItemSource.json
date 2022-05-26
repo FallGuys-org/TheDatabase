@@ -66,6 +66,12 @@
     }
   },
   {
+    "Id": "preregistration",
+    "Name": {
+      "English": "Pre-registration Award"
+    }
+  },
+  {
     "Id": "dlc_collectors",
     "Name": {
       "English": "Collector's Pack"
