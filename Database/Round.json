@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "dizzy_heights",
+    "Name": {
+      "English": "Dizzy Heights"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Navigate the obstacles and race to the finish line!"
+    }
+  }
+]

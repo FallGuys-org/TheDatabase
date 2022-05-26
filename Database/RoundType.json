@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "race",
+    "Name": {
+      "English": "Race"
+    },
+    "BackgroundColor": -16392083, // #FF05E06D
+    "ForegroundColor": -1         // #FFFFFFFF
+  }
+]
