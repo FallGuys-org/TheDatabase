@@ -11,7 +11,9 @@ You can use this database in your own apps, but *please*, do these two things if
   * Item Source
   * Item Type
   * Rarity
-* Season
+* Seasons
+* Rounds
+  * Round Type
 
 More entities will be added whenever it makes sense to do so.
 
