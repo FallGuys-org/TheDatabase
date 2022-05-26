@@ -6,10 +6,11 @@ You can use this database in your own apps, but *please*, do these two things if
 2. 👉 Contribute to the database over time. This will be very much appreciated by everyone! ❤️
 
 ## What's in this database?
-* Currency
-* Customisation Item Source
-* Customisation Item Type
-* Rarity
+* Customisation Items (pattern, costumes, emotes, etc)
+  * Currency
+  * Item Source
+  * Item Type
+  * Rarity
 * Season
 
 More entities will be added whenever it makes sense to do so.
