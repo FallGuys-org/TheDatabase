@@ -8,7 +8,7 @@
     "ItemType": "pattern",
     "Prices": [],
     "Sources": [ "mediatonic" ],
-    "Tags": [ "pattern", "mediatonic" ]
+    "Tags": [ "mediatonic" ]
   },
   {
     "Id": "colour_beachball",
@@ -19,6 +19,72 @@
     "ItemType": "colour",
     "Prices": [],
     "Sources": [ "default" ],
-    "Tags": [ "colour" ]
+    "Tags": [ ]
+  },
+  {
+    "Id": "pattern_fullbody",
+    "Name": {
+      "English": "Full Body"
+    },
+    "Rarity": "common",
+    "ItemType": "pattern",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "faceplate_default",
+    "Name": {
+      "English": "Default"
+    },
+    "Rarity": "common",
+    "ItemType": "faceplate",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "emote_thumbsup",
+    "Name": {
+      "English": "Thumbs Up"
+    },
+    "Rarity": "common",
+    "ItemType": "emote",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_monarch",
+    "Name": {
+      "English": "Monarch"
+    },
+    "Rarity": "common",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "celebration_plinthdrop",
+    "Name": {
+      "English": "Plinth Drop"
+    },
+    "Rarity": "common",
+    "ItemType": "celebration",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_rookie",
+    "Name": {
+      "English": "Rookie"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
   }
 ]
