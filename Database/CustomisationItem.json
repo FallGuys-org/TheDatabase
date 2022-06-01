@@ -9,5 +9,16 @@
     "Prices": [],
     "Sources": [ "mediatonic" ],
     "Tags": [ "pattern", "mediatonic" ]
+  },
+  {
+    "Id": "colour_beachball",
+    "Name": {
+      "English": "Beach Ball"
+    },
+    "Rarity": "common",
+    "ItemType": "colour",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ "colour" ]
   }
 ]
