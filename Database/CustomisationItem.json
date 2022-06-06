@@ -22,6 +22,50 @@
     "Tags": [ ]
   },
   {
+    "Id": "pattern_alphabet",
+    "Name": {
+      "English": "Alphabet"
+    },
+    "Rarity": "epic",
+    "ItemType": "pattern",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "pattern_bananawater",
+    "Name": {
+      "English": "Banana Water"
+    },
+    "Rarity": "epic",
+    "ItemType": "pattern",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "pattern_bigbad",
+    "Name": {
+      "English": "Big Bad"
+    },
+    "Rarity": "rare",
+    "ItemType": "pattern",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "pattern_cells",
+    "Name": {
+      "English": "Cells"
+    },
+    "Rarity": "common",
+    "ItemType": "pattern",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
     "Id": "colour_beachball",
     "Name": {
       "English": "Beach Ball"
