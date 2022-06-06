@@ -11,23 +11,23 @@
     "Tags": [ "mediatonic" ]
   },
   {
-    "Id": "colour_beachball",
-    "Name": {
-      "English": "Beach Ball"
-    },
-    "Rarity": "common",
-    "ItemType": "colour",
-    "Prices": [],
-    "Sources": [ "default" ],
-    "Tags": [ ]
-  },
-  {
     "Id": "pattern_fullbody",
     "Name": {
       "English": "Full Body"
     },
     "Rarity": "common",
     "ItemType": "pattern",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "colour_beachball",
+    "Name": {
+      "English": "Beach Ball"
+    },
+    "Rarity": "common",
+    "ItemType": "colour",
     "Prices": [],
     "Sources": [ "default" ],
     "Tags": [ ]
