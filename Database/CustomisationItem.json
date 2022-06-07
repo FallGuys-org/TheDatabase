@@ -130,5 +130,456 @@
     "Prices": [],
     "Sources": [ "default" ],
     "Tags": [ ]
+  },
+  {
+    "Id": "nickname_bakedbean",
+    "Name": {
+      "English": "Baked Bean"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_bestbean",
+    "Name": {
+      "English": "Best Bean"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_bigyeeted",
+    "Name": {
+      "English": "Big Yeeted"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_blockstar",
+    "Name": {
+      "English": "Block Star"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_classclown",
+    "Name": {
+      "English": "Class Clown"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_clutchlegend",
+    "Name": {
+      "English": "Clutch Legend"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_coolbean",
+    "Name": {
+      "English": "Cool Bean"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_crownsurfer",
+    "Name": {
+      "English": "Crown Surfer"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_dedicateddonut",
+    "Name": {
+      "English": "Dedicated Donut"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_divingdiva",
+    "Name": {
+      "English": "Diving Diva"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fallhalla",
+    "Name": {
+      "English": "Fallhalla"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_filthyrich",
+    "Name": {
+      "English": "Filthy Rich"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_followme",
+    "Name": {
+      "English": "Follow Me"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_freehugs",
+    "Name": {
+      "English": "Free Hugs"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fullofbeans",
+    "Name": {
+      "English": "Full of Beans"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_funguy",
+    "Name": {
+      "English": "Funguy"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_goalie",
+    "Name": {
+      "English": "Goalie"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_goodegg",
+    "Name": {
+      "English": "Good Egg"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_grabber",
+    "Name": {
+      "English": "Grabber"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_hexagod",
+    "Name": {
+      "English": "Hex-a-god"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_hoophotshot",
+    "Name": {
+      "English": "Hoop Hotshot"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_knighttoremember",
+    "Name": {
+      "English": "Knight to Remember"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_middlepathmaster",
+    "Name": {
+      "English": "Middle Path Master"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_mischiefmaker",
+    "Name": {
+      "English": "Mischief Maker"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_onaroll",
+    "Name": {
+      "English": "On a Roll"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_packleader",
+    "Name": {
+      "English": "Pack Leader"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_parkour",
+    "Name": {
+      "English": "Parkour!"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_proslimeclimber",
+    "Name": {
+      "English": "Pro Slime Climber"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_risktaker",
+    "Name": {
+      "English": "Risk Taker"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_seesaurusrex",
+    "Name": {
+      "English": "See-saurus Rex"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_seesawsaboteur",
+    "Name": {
+      "English": "See-Saw Saboteur"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_seesawsuperstar",
+    "Name": {
+      "English": "See-Saw Superstar"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_sirhugsalot",
+    "Name": {
+      "English": "Sir Hugs A Lot"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_smoothieoperator",
+    "Name": {
+      "English": "Smoothie Operator"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_stayaway",
+    "Name": {
+      "English": "Stay Away"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_tailblazer",
+    "Name": {
+      "English": "Tailblazer"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_tinytumbler",
+    "Name": {
+      "English": "Tiny Tumbler"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_topscorer",
+    "Name": {
+      "English": "Top Scorer"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_tryhard",
+    "Name": {
+      "English": "Tryhard"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_tryingtheirbest",
+    "Name": {
+      "English": "Trying Their Best"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_yolkhero",
+    "Name": {
+      "English": "Yolk Hero"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
   }
 ]
