@@ -77,12 +77,12 @@
     "Tags": [ ]
   },
   {
-    "Id": "faceplate_default",
+    "Id": "face_default",
     "Name": {
       "English": "Default"
     },
     "Rarity": "common",
-    "ItemType": "faceplate",
+    "ItemType": "face",
     "Prices": [],
     "Sources": [ "default" ],
     "Tags": [ ]
