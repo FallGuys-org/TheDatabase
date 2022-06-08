@@ -38,5 +38,13 @@
     },
     "BackgroundColor": -552162,   // #FFF7931E
     "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "special",
+    "Name": {
+      "English": "Special"
+    },
+    "BackgroundColor": -552162,   // #FFF7931E
+    "ForegroundColor": -1         // #FFFFFFFF
   }
 ]
