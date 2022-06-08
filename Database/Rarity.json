@@ -4,7 +4,7 @@
     "Name": {
       "English": "Common"
     },
-    "BackgroundColor": -16720146, // #FF00DEEE
+    "BackgroundColor": -8878963,  // #FF78848D
     "ForegroundColor": -1         // #FFFFFFFF
   },
   {
@@ -12,7 +12,7 @@
     "Name": {
       "English": "Uncommon"
     },
-    "BackgroundColor": -13844737, // #FF2CBEFF
+    "BackgroundColor": -9641880,  // #FF6CE068
     "ForegroundColor": -1         // #FFFFFFFF
   },
   {
@@ -20,7 +20,7 @@
     "Name": {
       "English": "Rare"
     },
-    "BackgroundColor": -13503381, // #FF31F46B
+    "BackgroundColor": -6815745,  // #FF97FFFF
     "ForegroundColor": -1         // #FFFFFFFF
   },
   {
@@ -28,7 +28,7 @@
     "Name": {
       "English": "Epic"
     },
-    "BackgroundColor": -4581674,  // #FFBA16D6
+    "BackgroundColor": -4647210,  // #FFB916D6
     "ForegroundColor": -1         // #FFFFFFFF
   },
   {
@@ -36,7 +36,7 @@
     "Name": {
       "English": "Legendary"
     },
-    "BackgroundColor": -552162,   // #FFF7931E
+    "BackgroundColor": -27876,    // #FFFF931C
     "ForegroundColor": -1         // #FFFFFFFF
   },
   {
@@ -44,7 +44,7 @@
     "Name": {
       "English": "Special"
     },
-    "BackgroundColor": -552162,   // #FFF7931E
+    "BackgroundColor": -14277082, // #FF262626
     "ForegroundColor": -1         // #FFFFFFFF
   }
 ]
