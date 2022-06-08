@@ -12,5 +12,19 @@
     "HowTo": {
       "English": "Navigate the obstacles and race to the finish line!"
     }
+  },
+  {
+    "Id": "door_dash",
+    "Name": {
+      "English": "Door Dash"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Break through doors and race to the finish line - some are real, some are fake!"
+    }
   }
 ]
