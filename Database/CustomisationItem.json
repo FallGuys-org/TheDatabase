@@ -845,5 +845,192 @@
     "Prices": [],
     "Sources": [ ],
     "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fallapalooza",
+    "Name": {
+      "English": "Fallapalooza"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_falllikeabutterfly",
+    "Name": {
+      "English": "Fall Like A Butterfly..."
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_heartoftheparty",
+    "Name": {
+      "English": "Heart of the Party"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_lightleader",
+    "Name": {
+      "English": "Light Leader"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_partybeanimal",
+    "Name": {
+      "English": "Party Beanimal"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_partystarter",
+    "Name": {
+      "English": "Party Starter"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_pipedreamer",
+    "Name": {
+      "English": "Pipe Dreamer"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_promenadepartygoer",
+    "Name": {
+      "English": "Promenade Party Goer"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_soireessovereign",
+    "Name": {
+      "English": "Soirees Sovereign"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_ufoenthusiast",
+    "Name": {
+      "English": "UFO Enthusiast"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_bouncybean",
+    "Name": {
+      "English": "Bouncy Bean"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_justpeachy",
+    "Name": {
+      "English": "Just Peachy"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_peakperformer",
+    "Name": {
+      "English": "Peak Performer"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_dressedtochill",
+    "Name": {
+      "English": "Dressed to Chill"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_thebiggestfan",
+    "Name": {
+      "English": "The Biggest Fan"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_jollybean",
+    "Name": {
+      "English": "Jolly Bean"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_barnstormer",
+    "Name": {
+      "English": "Barnstormer"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
   }
 ]
