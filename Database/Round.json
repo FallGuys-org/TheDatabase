@@ -26,5 +26,327 @@
     "HowTo": {
       "English": "Break through doors and race to the finish line - some are real, some are fake!"
     }
+  },
+  {
+    "Id": "block_party",
+    "Name": {
+      "English": "Block Party"
+    },
+    "Season": "s1",
+    "RoundType": "survival",
+    "Objective": {
+      "English": "Don't fall off!"
+    },
+    "HowTo": {
+      "English": "Avoid the moving walls and don't fall off the platform!"
+    }
+  },
+  {
+    "Id": "egg_scramble",
+    "Name": {
+      "English": "Egg Scramble"
+    },
+    "Season": "s1",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Collect the eggs!"
+    },
+    "HowTo": {
+      "English": "Use Grab to GRAB eggs - store them in your team's nest to score points!"
+    }
+  },
+  {
+    "Id": "fall_ball",
+    "Name": {
+      "English": "Fall Ball"
+    },
+    "Season": "s1",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Score goals!"
+    },
+    "HowTo": {
+      "English": "Score goals by getting balls into the opposing team's goal - work together to get the win!"
+    }
+  },
+  {
+    "Id": "fall_mountain",
+    "Name": {
+      "English": "Fall Mountain"
+    },
+    "Season": "s1",
+    "RoundType": "final",
+    "Objective": {
+      "English": "Grab the crown!"
+    },
+    "HowTo": {
+      "English": "Reach the top of the mountain first and use Grab to GRAB the CROWN!"
+    }
+  },
+  {
+    "Id": "fruit_chute",
+    "Name": {
+      "English": "Fruit Chute"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Dodge the flying fruit and race up the conveyor belt to reach the finish line!"
+    }
+  },
+  {
+    "Id": "gate_crash",
+    "Name": {
+      "English": "Gate Crash"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Avoid the moving doors and race to the finish line!"
+    }
+  },
+  {
+    "Id": "hexagone",
+    "Name": {
+      "English": "Hex-A-Gone"
+    },
+    "Season": "s1",
+    "RoundType": "final",
+    "Objective": {
+      "English": "Last one standing!"
+    },
+    "HowTo": {
+      "English": "Floor pieces fall away when you stand on them - keep moving and survive longest to WIN the CROWN!"
+    }
+  },
+  {
+    "Id": "hit_parade",
+    "Name": {
+      "English": "Hit Parade"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Navigate the obstacles and race to the finish line!"
+    }
+  },
+  {
+    "Id": "hoarders",
+    "Name": {
+      "English": "Hoarders"
+    },
+    "Season": "s1",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Hoard the balls!"
+    },
+    "HowTo": {
+      "English": "Keep balls in your area to earn points for your team!"
+    }
+  },
+  {
+    "Id": "hoopsie_daisy",
+    "Name": {
+      "English": "Hoopsie Daisy"
+    },
+    "Season": "s1",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Jump through hoops!"
+    },
+    "HowTo": {
+      "English": "JUMP and DIVE through hoops to score points for your team!"
+    }
+  },
+  {
+    "Id": "jinxed",
+    "Name": {
+      "English": "Jinxed"
+    },
+    "Season": "s1",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Don't get jinxed!"
+    },
+    "HowTo": {
+      "English": "The first team to get completely Jinxed are eliminated! When you get caught, GRAB the opposing team to Jinx them!"
+    }
+  },
+  {
+    "Id": "jump_club",
+    "Name": {
+      "English": "Jump Club"
+    },
+    "Season": "s1",
+    "RoundType": "survival",
+    "Objective": {
+      "English": "Don't fall off!"
+    },
+    "HowTo": {
+      "English": "JUMP over the spinning beam and avoid falling into the slime!"
+    }
+  },
+  {
+    "Id": "jump_showdown",
+    "Name": {
+      "English": "Jump Showdown"
+    },
+    "Season": "s1",
+    "RoundType": "final",
+    "Objective": {
+      "English": "Last one standing!"
+    },
+    "HowTo": {
+      "English": "JUMP over the spinning beam and avoid the falling floor to WIN the CROWN!"
+    }
+  },
+  {
+    "Id": "perfect_match",
+    "Name": {
+      "English": "Perfect Match"
+    },
+    "Season": "s1",
+    "RoundType": "logic",
+    "Objective": {
+      "English": "Match the icons!"
+    },
+    "HowTo": {
+      "English": "Memorise the icons on the tiles - when an icon is displayed on the screen, move to a matching tile to avoid falling into the slime!"
+    }
+  },
+  {
+    "Id": "rocknroll",
+    "Name": {
+      "English": "Rock 'n' Roll"
+    },
+    "Season": "s1",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Push your ball!"
+    },
+    "HowTo": {
+      "English": "Work together to PUSH your ball to the finish line before the other teams!"
+    }
+  },
+  {
+    "Id": "roll_out",
+    "Name": {
+      "English": "Roll Out"
+    },
+    "Season": "s1",
+    "RoundType": "survival",
+    "Objective": {
+      "English": "Don't fall off!"
+    },
+    "HowTo": {
+      "English": "Move between rotating rings to avoid falling into the slime!"
+    }
+  },
+  {
+    "Id": "royal_fumble",
+    "Name": {
+      "English": "Royal Fumble"
+    },
+    "Season": "s1",
+    "RoundType": "final",
+    "Objective": {
+      "English": "Grab the tail!"
+    },
+    "HowTo": {
+      "English": "Use Grab to GRAB the TAIL and make sure you're wearing it when the timer runs out to WIN!"
+    }
+  },
+  {
+    "Id": "see_saw",
+    "Name": {
+      "English": "See Saw"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Run and balance across rows of see-saws to reach the finish line!"
+    }
+  },
+  {
+    "Id": "slime_climb",
+    "Name": {
+      "English": "Slime Climb"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Outrun the rising slime and survive through obstacles to reach the finish line!"
+    }
+  },
+  {
+    "Id": "tail_tag",
+    "Name": {
+      "English": "Tail Tag"
+    },
+    "Season": "s1",
+    "RoundType": "hunt",
+    "Objective": {
+      "English": "Grab a tail!"
+    },
+    "HowTo": {
+      "English": "Some players start with tails, some don't - use Grab to GRAB a tail and make sure you have one when the timer runs out!"
+    }
+  },
+  {
+    "Id": "team_tail_tag",
+    "Name": {
+      "English": "Tail Tag"
+    },
+    "Season": "s1",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Grab a tail!"
+    },
+    "HowTo": {
+      "English": "Use Grab to GRAB a tail - make sure that your team has more tails than the rest when the timer runs out!"
+    }
+  },
+  {
+    "Id": "the_whirlygig",
+    "Name": {
+      "English": "The Whirlygig"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Navigate the obstacles and race to the finish line!"
+    }
+  },
+  {
+    "Id": "tip_toe",
+    "Name": {
+      "English": "Tip Toe"
+    },
+    "Season": "s1",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Find the path!"
+    },
+    "HowTo": {
+      "English": "Avoid fake tiles and find the hidden paths to reach the finish line!"
+    }
   }
 ]
