@@ -1032,5 +1032,236 @@
     "Prices": [],
     "Sources": [ ],
     "Tags": [ ]
+  },
+  {
+    "Id": "nickname_communityvip",
+    "Name": {
+      "English": "Community VIP"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_moderator",
+    "Name": {
+      "English": "Moderator"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_stumblechum",
+    "Name": {
+      "English": "Stumble Chum"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_astro",
+    "Name": {
+      "English": "Astro"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fallfestfanatic",
+    "Name": {
+      "English": "Fall Fest Fanatic"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_falloweenmaster",
+    "Name": {
+      "English": "Fall-o-Ween Master"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fallingforyou",
+    "Name": {
+      "English": "Falling for You"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fiveseasonedbean",
+    "Name": {
+      "English": "Five Seasoned Bean"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fruitfan",
+    "Name": {
+      "English": "Fruit Fan"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_glizzygang",
+    "Name": {
+      "English": "Glizzy Gang"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_glizzyringleader",
+    "Name": {
+      "English": "Glizzy Ringleader"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_glizzyvip",
+    "Name": {
+      "English": "Glizzy VIP"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_humorist",
+    "Name": {
+      "English": "Humorist"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_ironbean",
+    "Name": {
+      "English": "Iron Bean!"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_jollyjumper",
+    "Name": {
+      "English": "Jolly Jumper"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_junglechampion",
+    "Name": {
+      "English": "Jungle Champion"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_knittedknight",
+    "Name": {
+      "English": "Knitted Knight"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_mumimadeit",
+    "Name": {
+      "English": "Mum I made it"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_seasonedbean",
+    "Name": {
+      "English": "Seasoned Bean"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_seeker",
+    "Name": {
+      "English": "Seeker"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_thepumpkinking",
+    "Name": {
+      "English": "The Pumpkin King"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
   }
 ]
