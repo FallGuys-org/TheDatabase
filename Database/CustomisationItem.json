@@ -581,5 +581,269 @@
     "Prices": [],
     "Sources": [ ],
     "Tags": [ ]
+  },
+  {
+    "Id": "nickname_falalalalaguy",
+    "Name": {
+      "English": "Fa La La La La Guy"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_penguinpal",
+    "Name": {
+      "English": "Penguin Pal"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_snowangel",
+    "Name": {
+      "English": "Snow Angel"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_snowballsurvivor",
+    "Name": {
+      "English": "Snowball Survivor"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_stayingfrosty",
+    "Name": {
+      "English": "Staying Frosty"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_winterwaddler",
+    "Name": {
+      "English": "Winter Waddler"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_121gigabeans",
+    "Name": {
+      "English": "1.21 Gigabeans"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_ampedup",
+    "Name": {
+      "English": "Amped Up"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_circuitbreaker",
+    "Name": {
+      "English": "Circuit Breaker"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_dreamteam",
+    "Name": {
+      "English": "Dream Team"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_laserbean",
+    "Name": {
+      "English": "Laser Bean"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_powergrabber",
+    "Name": {
+      "English": "Power Grabber"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_squadgoals",
+    "Name": {
+      "English": "Squad Goals"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_starstruck",
+    "Name": {
+      "English": "Star-Struck"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_watchthis",
+    "Name": {
+      "English": "Watch This"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_beanexploring",
+    "Name": {
+      "English": "Bean Exploring"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_dynamicduo",
+    "Name": {
+      "English": "Dynamic Duo"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_fleetadmiral",
+    "Name": {
+      "English": "Fleet Admiral"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_flumewithaview",
+    "Name": {
+      "English": "Flume with a View"
+    },
+    "Rarity": "epic",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_ihatesnakes",
+    "Name": {
+      "English": "I Hate Snakes"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_makingasplash",
+    "Name": {
+      "English": "Making a Splash"
+    },
+    "Rarity": "common",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_rhinotamer",
+    "Name": {
+      "English": "Rhino Tamer"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_rockhoppinmad",
+    "Name": {
+      "English": "Rockhoppin' Mad"
+    },
+    "Rarity": "rare",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "nickname_spelunker",
+    "Name": {
+      "English": "Spelunker"
+    },
+    "Rarity": "legendary",
+    "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
   }
 ]
