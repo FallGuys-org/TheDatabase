@@ -6,5 +6,53 @@
     },
     "BackgroundColor": -16392083, // #FF05E06D
     "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "survival",
+    "Name": {
+      "English": "Survival"
+    },
+    "BackgroundColor": -16392083, // #FF05E06D
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "hunt",
+    "Name": {
+      "English": "Hunt"
+    },
+    "BackgroundColor": -16392083, // #FF05E06D
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "final",
+    "Name": {
+      "English": "Final"
+    },
+    "BackgroundColor": -16392083, // #FF05E06D
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "team",
+    "Name": {
+      "English": "Team"
+    },
+    "BackgroundColor": -16392083, // #FF05E06D
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "logic",
+    "Name": {
+      "English": "Logic"
+    },
+    "BackgroundColor": -16392083, // #FF05E06D
+    "ForegroundColor": -1         // #FFFFFFFF
+  },
+  {
+    "Id": "invisibeans",
+    "Name": {
+      "English": "Invisibeans"
+    },
+    "BackgroundColor": -16392083, // #FF05E06D
+    "ForegroundColor": -1         // #FFFFFFFF
   }
 ]
