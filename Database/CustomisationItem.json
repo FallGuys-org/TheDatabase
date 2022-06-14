@@ -77,17 +77,6 @@
     "Tags": [ ]
   },
   {
-    "Id": "face_default",
-    "Name": {
-      "English": "Default"
-    },
-    "Rarity": "common",
-    "ItemType": "face",
-    "Prices": [],
-    "Sources": [ "default" ],
-    "Tags": [ ]
-  },
-  {
     "Id": "emote_thumbsup",
     "Name": {
       "English": "Thumbs Up"
@@ -2173,6 +2162,501 @@
     },
     "Rarity": "rare",
     "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_default",
+    "Name": {
+      "English": "Default"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_babyblue",
+    "Name": {
+      "English": "Baby Blue"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_envy",
+    "Name": {
+      "English": "Envy"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_inverted",
+    "Name": {
+      "English": "Inverted"
+    },
+    "Rarity": "legendary",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_ninja",
+    "Name": {
+      "English": "Ninja"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_raging",
+    "Name": {
+      "English": "Raging"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_rosycheeks",
+    "Name": {
+      "English": "Rosy Cheeks"
+    },
+    "Rarity": "rare",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_suntan",
+    "Name": {
+      "English": "Suntan"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_violet",
+    "Name": {
+      "English": "Violet"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_yeller",
+    "Name": {
+      "English": "Yeller"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_badbot",
+    "Name": {
+      "English": "Badbot"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_beanbot",
+    "Name": {
+      "English": "Beanbot"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_marooned",
+    "Name": {
+      "English": "Marooned"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_menace",
+    "Name": {
+      "English": "Menace"
+    },
+    "Rarity": "rare",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_shock",
+    "Name": {
+      "English": "Shock"
+    },
+    "Rarity": "rare",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_strained",
+    "Name": {
+      "English": "Strained"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_brainfreeze",
+    "Name": {
+      "English": "Brain Freeze"
+    },
+    "Rarity": "rare",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_icyglare",
+    "Name": {
+      "English": "Icy Glare"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_notyeti",
+    "Name": {
+      "English": "Not Yet(i)"
+    },
+    "Rarity": "rare",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_chipset",
+    "Name": {
+      "English": "Chipset"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_intergalactic",
+    "Name": {
+      "English": "Intergalactic"
+    },
+    "Rarity": "legendary",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_midas",
+    "Name": {
+      "English": "Midas"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_slimyalien",
+    "Name": {
+      "English": "Slimy Alien"
+    },
+    "Rarity": "legendary",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_vaporwave",
+    "Name": {
+      "English": "Vaporwave"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_ayeaye",
+    "Name": {
+      "English": "Aye, Aye!"
+    },
+    "Rarity": "rare",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_clank",
+    "Name": {
+      "English": "Clank"
+    },
+    "Rarity": "legendary",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_outlaw",
+    "Name": {
+      "English": "Outlaw"
+    },
+    "Rarity": "legendary",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_ratchet",
+    "Name": {
+      "English": "Ratchet"
+    },
+    "Rarity": "legendary",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_snakeeyes",
+    "Name": {
+      "English": "Snake Eyes"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_totallytropical",
+    "Name": {
+      "English": "Totally Tropical"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_yellowbelly",
+    "Name": {
+      "English": "Yellow Belly"
+    },
+    "Rarity": "rare",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_icetoseeyou",
+    "Name": {
+      "English": "Ice to see you"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_lightsout",
+    "Name": {
+      "English": "Lights Out"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_lovedup",
+    "Name": {
+      "English": "Loved Up"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_mellowyellow",
+    "Name": {
+      "English": "Mellow Yellow"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_mintyfresh",
+    "Name": {
+      "English": "Minty Fresh"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_nightowl",
+    "Name": {
+      "English": "Night Owl"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_peachfuzz",
+    "Name": {
+      "English": "Peach Fuzz"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_purplemeanie",
+    "Name": {
+      "English": "Purple Meanie"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_purplegaze",
+    "Name": {
+      "English": "Purple Gaze"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_aloy",
+    "Name": {
+      "English": "Aloy"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_avocado",
+    "Name": {
+      "English": "Avocado"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_marshmallow",
+    "Name": {
+      "English": "Marshmallow"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_moonlitwithcraft",
+    "Name": {
+      "English": "Moonlit Witchcraft"
+    },
+    "Rarity": "common",
+    "ItemType": "face",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "face_walkingonsunshine",
+    "Name": {
+      "English": "Walking on Sunshine"
+    },
+    "Rarity": "epic",
+    "ItemType": "face",
     "Prices": [],
     "Sources": [ ],
     "Tags": [ ]
