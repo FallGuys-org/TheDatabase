@@ -1549,5 +1549,390 @@
     "Prices": [],
     "Sources": [ ],
     "Tags": [ ]
+  },
+  {
+    "Id": "banner_ampedup",
+    "Name": {
+      "English": "Amped Up"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_beepboop",
+    "Name": {
+      "English": "Beep Boop"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_cosmicvibes",
+    "Name": {
+      "English": "Cosmic Vibes"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_eggcellent",
+    "Name": {
+      "English": "Eggcellent"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_luckymechanicat",
+    "Name": {
+      "English": "Lucky Mechani-Cat"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_retroguys",
+    "Name": {
+      "English": "Retro Guys"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_shuttershades",
+    "Name": {
+      "English": "Shutter Shades"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_systemerror",
+    "Name": {
+      "English": "System Error"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_vaporwave",
+    "Name": {
+      "English": "Vaporwave"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_zapped",
+    "Name": {
+      "English": "Zapped!"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_adventure",
+    "Name": {
+      "English": "Adventure!"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_cheeseplant",
+    "Name": {
+      "English": "Cheese Plant"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_crocodile",
+    "Name": {
+      "English": "Crocodile"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_frog",
+    "Name": {
+      "English": "Frog"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_lemonlookout",
+    "Name": {
+      "English": "Lemon Lookout"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_scourgeoftheseas",
+    "Name": {
+      "English": "Scourge of the Seas"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_treasuremap",
+    "Name": {
+      "English": "Treasure Map"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_tropicaltree",
+    "Name": {
+      "English": "Tropical Tree"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_veggies",
+    "Name": {
+      "English": "Veggies"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_allsunsblazing",
+    "Name": {
+      "English": "All Suns Blazing"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_beachballbuff",
+    "Name": {
+      "English": "Beach Ball Buff"
+    },
+    "Rarity": "common",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_brainfreeze",
+    "Name": {
+      "English": "Brain Freeze"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_breakthrough",
+    "Name": {
+      "English": "Breakthrough"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_crowntown",
+    "Name": {
+      "English": "Crown Town"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_diver",
+    "Name": {
+      "English": "Diver"
+    },
+    "Rarity": "common",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_eggspertplanner",
+    "Name": {
+      "English": "Eggspert Planner"
+    },
+    "Rarity": "common",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_getready",
+    "Name": {
+      "English": "Get Ready.."
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_illbeslime",
+    "Name": {
+      "English": "I'll Be Slime!"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_partyon",
+    "Name": {
+      "English": "Party On"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_partypegwin",
+    "Name": {
+      "English": "Party Pegwin"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_pawprint",
+    "Name": {
+      "English": "Paw Print"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_suitedup",
+    "Name": {
+      "English": "Suited Up!"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_tada",
+    "Name": {
+      "English": "Ta-da!"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_tailtactics",
+    "Name": {
+      "English": "Tail Tactics"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_toughguy",
+    "Name": {
+      "English": "Tough Guy"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
   }
 ]
