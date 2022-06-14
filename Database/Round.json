@@ -310,7 +310,7 @@
   {
     "Id": "team_tail_tag",
     "Name": {
-      "English": "Tail Tag"
+      "English": "Team Tail Tag"
     },
     "Season": "s1",
     "RoundType": "team",
@@ -347,6 +347,76 @@
     },
     "HowTo": {
       "English": "Avoid fake tiles and find the hidden paths to reach the finish line!"
+    }
+  },
+  {
+    "Id": "egg_siege",
+    "Name": {
+      "English": "Egg Siege"
+    },
+    "Season": "s2",
+    "RoundType": "team",
+    "Objective": {
+      "English": "Collect the eggs!"
+    },
+    "HowTo": {
+      "English": "Use Grab to GRAB eggs - store them in your team's nest to score points!"
+    }
+  },
+  {
+    "Id": "hoopsie_legends",
+    "Name": {
+      "English": "Hoopsie Legends"
+    },
+    "Season": "s2",
+    "RoundType": "hunt",
+    "Objective": {
+      "English": "Jump through hoops!"
+    },
+    "HowTo": {
+      "English": "JUMP and DIVE through hoops to score points!"
+    }
+  },
+  {
+    "Id": "knight_fever",
+    "Name": {
+      "English": "Knight Fever"
+    },
+    "Season": "s2",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Navigate the Medieval obstacles and race to the finish line!"
+    }
+  },
+  {
+    "Id": "wall_guys",
+    "Name": {
+      "English": "Wall Guys"
+    },
+    "Season": "s2",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Scale the walls!"
+    },
+    "HowTo": {
+      "English": "Use Grab to GRAB and move blocks - create paths and jump along to cross walls and reach the finish line!"
+    }
+  },
+  {
+    "Id": "big_fans",
+    "Name": {
+      "English": "Big Fans"
+    },
+    "Season": "s2",
+    "RoundType": "race",
+    "Objective": {
+      "English": "Race to the finish!"
+    },
+    "HowTo": {
+      "English": "Navigate the obstacles and race to the finish line!"
     }
   }
 ]
