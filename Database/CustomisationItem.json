@@ -1934,5 +1934,247 @@
     "Prices": [],
     "Sources": [ ],
     "Tags": [ ]
+  },
+  {
+    "Id": "banner_balloon",
+    "Name": {
+      "English": "Balloon"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_fallingrainbow",
+    "Name": {
+      "English": "Falling Rainbow"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_fallface",
+    "Name": {
+      "English": "Fall Face"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_icecoldcrown",
+    "Name": {
+      "English": "Ice Cold Crown"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_tagged",
+    "Name": {
+      "English": "Tagged"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_qualified",
+    "Name": {
+      "English": "Qualified"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_hexagoneking",
+    "Name": {
+      "English": "Hex-A-Gone King"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_numberone",
+    "Name": {
+      "English": "Number One"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_rosette",
+    "Name": {
+      "English": "Rosette"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_golden",
+    "Name": {
+      "English": "Golden"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_astro",
+    "Name": {
+      "English": "Astro"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_boxingday",
+    "Name": {
+      "English": "Boxing Day"
+    },
+    "Rarity": "common",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_clank",
+    "Name": {
+      "English": "Clank"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_fallstar",
+    "Name": {
+      "English": "Fall Star"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_goldenhotdog",
+    "Name": {
+      "English": "Golden Hotdog"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_horizon",
+    "Name": {
+      "English": "Horizon"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_kinglouie",
+    "Name": {
+      "English": "King Louie"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_ratchet",
+    "Name": {
+      "English": "Ratchet"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_rivet",
+    "Name": {
+      "English": "Rivet"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_sackboy",
+    "Name": {
+      "English": "Sackboy"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_strong",
+    "Name": {
+      "English": "Strong"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_sumochicken",
+    "Name": {
+      "English": "Sumo Chicken"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
   }
 ]
