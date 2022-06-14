@@ -99,17 +99,6 @@
     "Tags": [ ]
   },
   {
-    "Id": "banner_monarch",
-    "Name": {
-      "English": "Monarch"
-    },
-    "Rarity": "common",
-    "ItemType": "banner",
-    "Prices": [],
-    "Sources": [ "default" ],
-    "Tags": [ ]
-  },
-  {
     "Id": "celebration_plinthdrop",
     "Name": {
       "English": "Plinth Drop"
@@ -1260,6 +1249,303 @@
     },
     "Rarity": "epic",
     "ItemType": "nickname",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_monarch",
+    "Name": {
+      "English": "Monarch"
+    },
+    "Rarity": "common",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ "default" ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_butterfly",
+    "Name": {
+      "English": "Butterfly"
+    },
+    "Rarity": "common",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_dino",
+    "Name": {
+      "English": "Dino"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_donut",
+    "Name": {
+      "English": "Donut"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_dragonfire",
+    "Name": {
+      "English": "Dragonfire"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_famous",
+    "Name": {
+      "English": "Famous"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_hunter",
+    "Name": {
+      "English": "Hunter"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_love",
+    "Name": {
+      "English": "Love"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_peachy",
+    "Name": {
+      "English": "Peachy"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_pizza",
+    "Name": {
+      "English": "Pizza"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_pumpkin",
+    "Name": {
+      "English": "Pumpkin"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_rainbow",
+    "Name": {
+      "English": "Rainbow"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_shroom",
+    "Name": {
+      "English": "Shroom"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_skelly",
+    "Name": {
+      "English": "Skelly"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_slime",
+    "Name": {
+      "English": "Slime"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_watermelon",
+    "Name": {
+      "English": "Watermelon"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_yarrrr",
+    "Name": {
+      "English": "Yarrrr!"
+    },
+    "Rarity": "legendary",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_candycane",
+    "Name": {
+      "English": "Candy Cane"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_coffeebeans",
+    "Name": {
+      "English": "Coffee Beans"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_fallble",
+    "Name": {
+      "English": "Fall-ble"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_gingerbread",
+    "Name": {
+      "English": "Gingerbread"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_iheartfg",
+    "Name": {
+      "English": "I Heart FG"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_nutcracker",
+    "Name": {
+      "English": "Nutcracker"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_penguin",
+    "Name": {
+      "English": "Penguin"
+    },
+    "Rarity": "epic",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_salute",
+    "Name": {
+      "English": "Salute"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_santahat",
+    "Name": {
+      "English": "Santa Hat"
+    },
+    "Rarity": "uncommon",
+    "ItemType": "banner",
+    "Prices": [],
+    "Sources": [ ],
+    "Tags": [ ]
+  },
+  {
+    "Id": "banner_snowman",
+    "Name": {
+      "English": "Snowman"
+    },
+    "Rarity": "rare",
+    "ItemType": "banner",
     "Prices": [],
     "Sources": [ ],
     "Tags": [ ]
